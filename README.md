@@ -31,7 +31,7 @@ pip install selenium beautifulsoup4
 
 2. Navigate to the project directory:
 ```bash
-cd Tanzania-Ministry_of_health_web_scrapper
+cd your-folder-name
 ```
 
 3. Download the Chrome WebDriver (chromedriver.exe) and place it in the project directory. You can download it from [here](https://sites.google.com/chromium.org/driver/).
